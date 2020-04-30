@@ -1,0 +1,14 @@
+  spring:
+    application:
+      name: app
+  server:
+    port: 9998
+  eureka:
+    instance:
+      # 心跳时间，即服务续约间隔时间（缺省为30s）
+      lease-renewal-interval-in-seconds: 5
+      # 发呆时间，即服务续约到期时间（缺省为90s）
+      lease-expiration-duration-in-seconds: 15
+    client:
+      serviceUrl:
+        defaultZone: http://localhost:8761/eureka/

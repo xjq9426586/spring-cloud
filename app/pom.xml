@@ -9,14 +9,12 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <groupId>com.xjq</groupId>
-    <artifactId>feign-b</artifactId>
+    <artifactId>app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>feign-b</name>
+    <name>app</name>
     <packaging>pom</packaging>
 
     <modules>
-        <module>feign-b-api</module>
-        <module>feign-b-boot</module>
-        <module>feign-b-service</module>
+        <module>app-boot</module>
     </modules>
 </project>
