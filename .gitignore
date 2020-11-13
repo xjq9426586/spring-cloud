@@ -1,0 +1,31 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/jarRepositories.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+app/app-boot/src/main/resources/static/
+app/app-boot/src/main/resources/templates/
+config/src/main/resources/static/
+config/src/main/resources/templates/
+feign-a/feign-a-api/src/main/resources/
+feign-a/feign-a-boot/src/main/java/com/xjq/feigna/
+feign-a/feign-a-boot/src/main/resources/static/
+feign-a/feign-a-boot/src/main/resources/templates/
+feign-a/feign-a-service/src/main/resources/
+feign-b/feign-b-api/src/
+feign-b/feign-b-boot/src/main/resources/static/
+feign-b/feign-b-boot/src/main/resources/templates/
+feign-b/feign-b-service/src/
